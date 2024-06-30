@@ -1,0 +1,6 @@
+===== STRUK PEMBELIAN =====
+Kode: 006, Nama: Susu, Harga: Rp20.000,00, Jumlah: 2
+Kode: 008, Nama: Teh, Harga: Rp15.000,00, Jumlah: 3
+Kode: 017, Nama: Roti, Harga: Rp5.000,00, Jumlah: 5
+===========================
+Total Harga: Rp110.000,00
